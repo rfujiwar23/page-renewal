@@ -148,7 +148,10 @@ body {
 .project p {
   font-size: 14px;
   padding: 5px;
+}
 
+.project p strong {
+  text-decoration: underline;
 }
 
 .project h5 {
